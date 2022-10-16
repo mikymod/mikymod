@@ -1,6 +1,7 @@
 - 👋 Hi, I'm @mikymod, an experienced and dedicated software developer with several years of experience.
 - 👀 I'm interested mainly in Game Development.
-- 🌱 I'm currently studing Intelligent and Adaptive Systems at University of Camerino and Video Games Programming at Accademia Italiana Videogiochi.
+- 🌱 I'm currently studing Video Games Programming at Accademia Italiana Videogiochi.
 - ⚙  I'm working with [Flutter](https://flutter.dev/) at [Overside](https://www.overside.it/)
 - 📫 How to reach me:
     - [Twitter](https://twitter.com/MikyM0D)
+    - [LinkedIn](https://www.linkedin.com/in/michele-rossi-16441141/)
