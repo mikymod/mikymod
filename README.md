@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @mikymod, an experienced and dedicated software developer with several years of experience.
+- 👋 Hi, I'm Michele
 - 👀 I'm interested mainly in Game Development.
 - 🌱 I'm currently studing Video Games Programming at Accademia Italiana Videogiochi.
 - ⚙  I'm working with [Flutter](https://flutter.dev/) at [Overside](https://www.overside.it/)
